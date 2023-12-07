@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Aston_intensiv_Work_with_fragments</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_fragment_a">This is Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="back">Back</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="this_is_fragment_b">This is Fragment B</string>
+    <string name="this_is_fragment_c">This is Fragment C</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="message">message</string>
+    <string name="fragment_d">Fragment D</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_fragment_d">This is Fragment D</string>
 </resources>
